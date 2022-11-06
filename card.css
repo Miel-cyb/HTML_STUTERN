@@ -1,0 +1,27 @@
+div{
+    border: 0.5px solid;
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 500px;
+height: 450px;
+}
+
+h3,h1,p{
+    margin: 10px;
+}
+ul li{
+    list-style: none;
+    margin-left: -10px;
+}
+button{
+    background-color: white;
+  margin-left: 60px;
+  padding: 15px;
+  border-radius: 25px;
+  width: 150px;
+  border: 0.01px solid;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
