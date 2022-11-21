@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+background: linear-gradient(rgb(188, 188, 244), rgb(222, 135, 164));
+}
+.work{
+    color: white;
+    background-color: rgb(26, 24, 24);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+main{
+    background-color: whitesmoke;
+    width: 90%;
+    margin: 25px;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+section img{
+   width: 30vw;
+ }
+ a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    float: right;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ section{
+    display: flex;
+    margin-left: 10%;
+ }
+ section img{
+    margin-top: 50px;
+ }
+ section .intro{
+    margin-top: 100px;
+   
+ }
+ .career{
+    margin-left: 30px;
+ }
+ ul li{
+ list-style-type: none;
+border-style:inset;
+border-width: 0.01px;
+  }
+  ul{
+    margin-left: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
