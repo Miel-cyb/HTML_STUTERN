@@ -91,6 +91,21 @@ font-family:Georgia, 'Times New Roman', Times, serif ;
 margin-left: 75px;
 margin-top: -50px;
 }
+.img{
+    display: flex;
+    border-style: solid;
+position: absolute;
+width: 25vw;
+top: 130%;
+border-radius: 10px;
+background-color: black;
+}
+.img p{
+margin: 20px;
+}
+.img img{
+    width: 50px;
+}
 .third-section{
     color: white;
     display: flex;
